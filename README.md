@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Varun Prakash</h1>
 <h3 align="center">🎓 MCA Student | 💻 Aspiring Software Developer | 🚀 Exploring Java, Backend Development, and AI</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=varunprakash-03&label=Profile%20views&color=0e75b6&style=flat" alt="varunprakash-03" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varunprakash-03" alt="varunprakash-03" /></a> </p>
+
 - 🔭 I’m currently working on **🔭Currently working on Java + Spring Boot backend projects**
 
 - 📫 How to reach me **varunprakashpb@gmail.com**
@@ -11,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/varun prakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun prakash" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/varun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varun" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/varun-prakash-17b332296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/varun-prakash-17b332296" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/m9cswukfsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="m9cswukfsh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

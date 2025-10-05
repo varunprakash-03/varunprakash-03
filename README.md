@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varunprakash-03" alt="varunprakash-03" /></a> </p>
 
-- 🔭 I’m currently working on **🔭Currently working on Java + Spring Boot backend projects**
+- 🔭 I’m currently working on **🔭 Java + Spring Boot backend projects**
 
 - 📫 How to reach me **varunprakashpb@gmail.com**
 
